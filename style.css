@@ -1,0 +1,231 @@
+.boxText {
+    width: 1000px;
+    min-height: 200px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: gainsboro;
+    border-radius: 5px;
+}
+
+.box1 {
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.f1 {
+    width: 150px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.edit_but {
+    color: sienna;
+    background-color: yellow;
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.style_but {
+    color: white;
+    background-color: blue;
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.box2 {
+    width: 1000px;
+    min-height: 330px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    background-color: gainsboro;
+    border-radius: 5px;
+}
+
+.f2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text_area {
+    width: 900px;
+    height: 200px;
+    border-radius: 5px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-left: 50px;
+    display: none;
+}
+
+.add_but {
+    color: white;
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-top: 10px;
+    display: none;
+}
+
+.save_but {
+    color: white;
+    background-color: green;
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: none;
+}
+
+.f3 {
+    margin-left: 50px;
+    display: none;
+}
+
+.font_s, .font_f, .colors, .style_b {
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#select {
+    width: 250px;
+    height: 30px;
+}
+
+.color_butt, .back_butt {
+    min-width: 100px;
+    height: 30px;
+    color: white;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.images {
+    width: 200px;
+    height: 180px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: -220px;
+    margin-left: 550px;
+    /* display: none; */
+}
+
+.div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9 {
+    width: 60px;
+    height: 60px;
+    display: none;
+}
+
+.boxChoose {
+    width: 1000px;
+    min-height: 200px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    background-color: gainsboro;
+    border-radius: 5px;
+    display: none;
+}
+
+.boxChoose1 {
+    margin-left: 50px;
+    line-height: 50px;
+}
+
+.radTab {
+    margin-top: -35px;
+    margin-bottom: -55px;
+}
+
+.inp1, .inp2, .inp3, .inp4 {
+    width: 750px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.inp1, .inp2 {
+    margin-left: 50px;
+}
+
+.inp3 {
+    margin-left: 35px;
+}
+
+.inp4 {
+    margin-left: 30px;
+}
+
+.inp5 {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 30px;
+}
+
+h3 {
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+.select1 {
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.select2 {
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.createT {
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+.f5 {
+    display: none;
+}
+
+.f6 {
+    margin-top: 30px;
+    display: none;
+}
+
+.inp6 {
+    margin-left: 80px;
+    width: 750px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.createL {
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+.select3 {
+    margin-left: 40px;
+    width: 750px;
+    height: 30px;
+    border-radius: 5px;
+}
